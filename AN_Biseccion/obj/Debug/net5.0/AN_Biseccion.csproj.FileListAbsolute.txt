@@ -14,3 +14,19 @@ C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug
 C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\ref\AN_Biseccion.dll
 C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.pdb
 C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.genruntimeconfig.cache
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.exe
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.deps.json
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.runtimeconfig.json
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.runtimeconfig.dev.json
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.dll
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\bin\Debug\net5.0\ref\AN_Biseccion.dll
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.pdb
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.csprojAssemblyReference.cache
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.AssemblyInfoInputs.cache
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.AssemblyInfo.cs
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.csproj.CoreCompileInputs.cache
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.dll
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\obj\Debug\net5.0\ref\AN_Biseccion.dll
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.pdb
+C:\Users\SARAVIA\Documents\UCA STEVE\INFORMATICA\AN_Code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.genruntimeconfig.cache

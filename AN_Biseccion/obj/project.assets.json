@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\steve\\.nuget\\packages\\": {}
+    "C:\\Users\\SARAVIA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steve\\Documents\\UCA STEVE\\ANALISIS NUMERICO\\code\\AN_Biseccion\\AN_Biseccion.csproj",
+      "projectUniqueName": "C:\\Users\\SARAVIA\\Documents\\UCA STEVE\\INFORMATICA\\AN_Code\\AN_Biseccion\\AN_Biseccion.csproj",
       "projectName": "AN_Biseccion",
-      "projectPath": "C:\\Users\\steve\\Documents\\UCA STEVE\\ANALISIS NUMERICO\\code\\AN_Biseccion\\AN_Biseccion.csproj",
-      "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steve\\Documents\\UCA STEVE\\ANALISIS NUMERICO\\code\\AN_Biseccion\\obj\\",
+      "projectPath": "C:\\Users\\SARAVIA\\Documents\\UCA STEVE\\INFORMATICA\\AN_Code\\AN_Biseccion\\AN_Biseccion.csproj",
+      "packagesPath": "C:\\Users\\SARAVIA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SARAVIA\\Documents\\UCA STEVE\\INFORMATICA\\AN_Code\\AN_Biseccion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\SARAVIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
