@@ -1,0 +1,16 @@
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.exe
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.deps.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.runtimeconfig.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.runtimeconfig.dev.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\bin\Debug\net5.0\ref\AN_Biseccion.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\bin\Debug\net5.0\AN_Biseccion.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.csprojAssemblyReference.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.AssemblyInfo.cs
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\ref\AN_Biseccion.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\AN_Biseccion\obj\Debug\net5.0\AN_Biseccion.genruntimeconfig.cache

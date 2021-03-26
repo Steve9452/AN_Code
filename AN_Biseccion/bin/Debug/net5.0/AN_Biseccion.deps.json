@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AN_Biseccion/1.0.0": {
+        "runtime": {
+          "AN_Biseccion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AN_Biseccion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
