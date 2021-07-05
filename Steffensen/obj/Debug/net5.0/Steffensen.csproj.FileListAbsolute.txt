@@ -1,0 +1,16 @@
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\bin\Debug\net5.0\Steffensen.exe
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\bin\Debug\net5.0\Steffensen.deps.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\bin\Debug\net5.0\Steffensen.runtimeconfig.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\bin\Debug\net5.0\Steffensen.runtimeconfig.dev.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\bin\Debug\net5.0\Steffensen.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\bin\Debug\net5.0\ref\Steffensen.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\bin\Debug\net5.0\Steffensen.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\obj\Debug\net5.0\Steffensen.csprojAssemblyReference.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\obj\Debug\net5.0\Steffensen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\obj\Debug\net5.0\Steffensen.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\obj\Debug\net5.0\Steffensen.AssemblyInfo.cs
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\obj\Debug\net5.0\Steffensen.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\obj\Debug\net5.0\Steffensen.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\obj\Debug\net5.0\ref\Steffensen.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\obj\Debug\net5.0\Steffensen.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Steffensen\obj\Debug\net5.0\Steffensen.genruntimeconfig.cache

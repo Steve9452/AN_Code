@@ -1,0 +1,16 @@
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\bin\Debug\net5.0\MetodoSecante.exe
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\bin\Debug\net5.0\MetodoSecante.deps.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\bin\Debug\net5.0\MetodoSecante.runtimeconfig.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\bin\Debug\net5.0\MetodoSecante.runtimeconfig.dev.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\bin\Debug\net5.0\MetodoSecante.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\bin\Debug\net5.0\ref\MetodoSecante.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\bin\Debug\net5.0\MetodoSecante.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\obj\Debug\net5.0\MetodoSecante.csprojAssemblyReference.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\obj\Debug\net5.0\MetodoSecante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\obj\Debug\net5.0\MetodoSecante.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\obj\Debug\net5.0\MetodoSecante.AssemblyInfo.cs
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\obj\Debug\net5.0\MetodoSecante.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\obj\Debug\net5.0\MetodoSecante.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\obj\Debug\net5.0\ref\MetodoSecante.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\obj\Debug\net5.0\MetodoSecante.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\MetodoSecante\obj\Debug\net5.0\MetodoSecante.genruntimeconfig.cache

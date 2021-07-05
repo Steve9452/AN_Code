@@ -1,0 +1,16 @@
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\bin\Debug\net5.0\aitken.exe
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\bin\Debug\net5.0\aitken.deps.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\bin\Debug\net5.0\aitken.runtimeconfig.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\bin\Debug\net5.0\aitken.runtimeconfig.dev.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\bin\Debug\net5.0\aitken.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\bin\Debug\net5.0\ref\aitken.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\bin\Debug\net5.0\aitken.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\obj\Debug\net5.0\aitken.csprojAssemblyReference.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\obj\Debug\net5.0\aitken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\obj\Debug\net5.0\aitken.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\obj\Debug\net5.0\aitken.AssemblyInfo.cs
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\obj\Debug\net5.0\aitken.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\obj\Debug\net5.0\aitken.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\obj\Debug\net5.0\ref\aitken.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\obj\Debug\net5.0\aitken.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\aitken\obj\Debug\net5.0\aitken.genruntimeconfig.cache

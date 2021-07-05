@@ -1,0 +1,16 @@
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\bin\Debug\net5.0\Newton.exe
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\bin\Debug\net5.0\Newton.deps.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\bin\Debug\net5.0\Newton.runtimeconfig.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\bin\Debug\net5.0\Newton.runtimeconfig.dev.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\bin\Debug\net5.0\Newton.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\bin\Debug\net5.0\ref\Newton.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\bin\Debug\net5.0\Newton.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\obj\Debug\net5.0\Newton.csprojAssemblyReference.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\obj\Debug\net5.0\Newton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\obj\Debug\net5.0\Newton.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\obj\Debug\net5.0\Newton.AssemblyInfo.cs
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\obj\Debug\net5.0\Newton.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\obj\Debug\net5.0\Newton.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\obj\Debug\net5.0\ref\Newton.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\obj\Debug\net5.0\Newton.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Newton\obj\Debug\net5.0\Newton.genruntimeconfig.cache

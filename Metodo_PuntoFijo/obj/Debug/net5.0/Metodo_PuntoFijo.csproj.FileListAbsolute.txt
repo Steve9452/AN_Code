@@ -1,0 +1,16 @@
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\bin\Debug\net5.0\Metodo_PuntoFijo.exe
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\bin\Debug\net5.0\Metodo_PuntoFijo.deps.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\bin\Debug\net5.0\Metodo_PuntoFijo.runtimeconfig.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\bin\Debug\net5.0\Metodo_PuntoFijo.runtimeconfig.dev.json
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\bin\Debug\net5.0\Metodo_PuntoFijo.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\bin\Debug\net5.0\ref\Metodo_PuntoFijo.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\bin\Debug\net5.0\Metodo_PuntoFijo.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\obj\Debug\net5.0\Metodo_PuntoFijo.csprojAssemblyReference.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\obj\Debug\net5.0\Metodo_PuntoFijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\obj\Debug\net5.0\Metodo_PuntoFijo.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\obj\Debug\net5.0\Metodo_PuntoFijo.AssemblyInfo.cs
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\obj\Debug\net5.0\Metodo_PuntoFijo.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\obj\Debug\net5.0\Metodo_PuntoFijo.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\obj\Debug\net5.0\ref\Metodo_PuntoFijo.dll
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\obj\Debug\net5.0\Metodo_PuntoFijo.pdb
+C:\Users\steve\Documents\UCA STEVE\ANALISIS NUMERICO\code\Metodo_PuntoFijo\obj\Debug\net5.0\Metodo_PuntoFijo.genruntimeconfig.cache
